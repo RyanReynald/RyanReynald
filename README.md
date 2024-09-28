@@ -14,8 +14,9 @@
 
 ### <p align="left">🛠 Ferramentas e Tecnologias</p>
 
-<div style="display: inline_block"<br/>
-<img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<div style="display: inline_block" align="center"<br>
+<img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img width='50px' height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />   
+<img with='50px' height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div> <br>
 
 Sou um entusiasta da programação, sempre em busca de aprender algo novo. Apaixonado por tecnologia e desenvolvimento fullstack, estou constantemente aprimorando minhas habilidades para construir soluções completas e inovadoras. Estudo diariamente para expandir meu conhecimento.
