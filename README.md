@@ -7,8 +7,8 @@
 ### ⚙️ &nbsp;Minhas Estatísticas
 <div align="center">
   <a href="https://github.com/RyanReynald">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanReynald&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Langs" width="340">
-<img src="https://github-readme-stats.vercel.app/api?username=RyanReynald&show_icons=true&theme=radical" alt="GitHub Stats" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanReynald&show_icons=true&theme=radical" alt="GitHub Stats" width="430">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanReynald&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
     
 
